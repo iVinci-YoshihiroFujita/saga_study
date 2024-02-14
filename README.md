@@ -1,6 +1,7 @@
 # saga study
 
-Saga のお勉強用リポジトリ
+- Saga のお勉強用リポジトリ
+- 本リポジトリでは、AWS StepFunction を使用した Saga パターンのサンプル実装を行う
 
 ## Saga とは
 
